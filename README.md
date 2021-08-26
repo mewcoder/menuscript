@@ -1,2 +1,1 @@
-# menuscript
-JavaScript手写练习
+# JavaScript 练习仓库
